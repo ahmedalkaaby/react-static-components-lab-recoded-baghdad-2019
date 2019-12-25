@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 
+<<<<<<< HEAD
 export default
 class EinsteinQuoteComponent extends Component {
+=======
+export defual class EinsteinQuoteComponent extends Component {
+>>>>>>> e574b25141763ddccef5778f4141d11beaae852b
 	render() {
 		return (
 			<div className="bar" id="einstein">
